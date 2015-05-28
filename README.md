@@ -13,8 +13,8 @@ I may get stuck on something very easy/obvious if I had only done a little more 
 How do you deal with this?/recommend approaching this?
 
 With regular expressions, it seems that practice makes perfect. I have a good idea of what is going on/
-how to find out what is going (with RE), now I need to practice.
-See you in class,
+how to find out what is going (with RE), now I need to practice. Hopefully more before class tomorrow.
+See you then,
 Will
 
 
